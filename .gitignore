@@ -3,12 +3,11 @@ node_modules/
 
 # Production build
 dist/
-build/
 
 # Logs
 *.log
 npm-debug.log*
-
+free_portfolio Setup 1.0.0.exe
 # Runtime data
 pids
 *.pid
