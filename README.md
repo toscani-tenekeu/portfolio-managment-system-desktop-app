@@ -56,10 +56,14 @@ The built application will be available in the `dist` folder.
 - HTML/CSS
 - JavaScript
 
+## Support
+
+Found a bug? Have a suggestion? Send me a message from my portfolio in contacts section: [send a message](https://toscani-tenekeu.onrender.com)
+
 ## License
 
 ISC
 
 ## Author
 
-[Toscani TENEKEU | Full-Stack Developer]
+[ Toscani MODJOU TENEKEU | Full-Stack Developer ]
