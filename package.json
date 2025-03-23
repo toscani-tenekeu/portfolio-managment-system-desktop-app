@@ -1,0 +1,23 @@
+{
+  "name": "free_portfolio",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron .",
+    "build": "electron-builder build",
+    "dist:win": "electron-builder --win"
+  },
+  "build": {
+    "appId": "com.way-tocode",
+    "icon": "build/icon.ico"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "electron": "^35.0.0",
+    "electron-builder": "^25.1.8"
+  }
+}
