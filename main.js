@@ -45,7 +45,7 @@ function createWindow() {
       return;
     }
 
-    win.loadURL('https://free-portfolio-php.great-site.net');
+    win.loadURL('https://portfolio_managment-syst-php-mysql.great-site.net');
     
     win.webContents.on('did-finish-load', () => {
       win.show();
